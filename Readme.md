@@ -2,7 +2,7 @@
 # Welcome 👋
   ---
 # Beautygem 
-Beautygem allows businesses to have clients book appointments from Facebook, Instagram, Google, and their website with a “Book Now” button. It also gives customers the ability to reschedule, cancel, and rebook appointments online so they don't need to make a call.26
+Beautygem is booking ap which helps to book and manage your appointments with the salons and spa nearby of you. It shows the available slots to book and rates of the services provided by salons
 
 ---
 
